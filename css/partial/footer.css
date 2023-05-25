@@ -1,0 +1,236 @@
+div.wrraper > div.tozih{
+  width: 100%;
+  height: 300px;
+  margin-bottom: 30px;
+}
+div.wrraper > div.tozih>div.mob{
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+div.wrraper > div.tozih>div.app{
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  margin-top: 20px;
+ 
+}
+div.wrraper > div.tozih>div.mob>h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+div.wrraper > div.tozih>div.app>h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+
+
+div.wrraper > div.footer {
+  width: 100%;
+  height: auto;
+}
+div.wrraper > div.footer > div.privacy {
+  width: 100%;
+  height: 55px;
+  text-align: center;
+  padding: 15px;
+  border-top: 0.5px solid #9e9e9e;
+}
+
+div.wrraper > div.footer > div.privacy > p {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+div.wrraper > div.footer > div.privacy > h4 {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+div.wrraper > div.footer > div.privacy > a {
+  color: black;
+  font-weight: 400;
+}
+div.wrraper > div.footer > div.option {
+  width: 100%;
+  height: 660px;
+  border-top: 0.5px solid #9e9e9e;
+  border-bottom: 0.5px solid #9e9e9e;
+}
+div.wrraper > div.footer > div.option > div.shop,
+div.soppurt,
+div.offerf,
+div.ss {
+  width: 24%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.wrraper > div.footer > div.option > div.shop {
+  border-right: 0.5px solid #9e9e9e;
+}
+div.wrraper > div.footer > div.option > div.soppurt {
+  border-right: 0.5px solid #9e9e9e;
+}
+div.wrraper > div.footer > div.option > div.offerf {
+  border-right: 0.5px solid #9e9e9e;
+}
+div.wrraper > div.footer > div.option > div.shop {
+  padding: 30px;
+}
+div.wrraper > div.footer > div.option > div.shop > h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.wrraper > div.footer > div.option > div.shop > a {
+  display: block;
+
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+}
+div.wrraper > div.footer > div.option > div.soppurt {
+  padding: 30px;
+}
+div.wrraper > div.footer > div.option > div.soppurt > h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.wrraper > div.footer > div.option > div.soppurt > a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+}
+div.wrraper > div.footer > div.option > div.offerf {
+  padding: 30px;
+}
+div.wrraper > div.footer > div.option > div.offerf > h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.wrraper > div.footer > div.option > div.offerf > a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+}
+div.wrraper > div.footer > div.option > div.ss {
+  padding: 30px;
+}
+div.wrraper > div.footer > div.option > div.ss > h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.wrraper > div.footer > div.option > div.ss > a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+}
+div.wrraper > div.footer > div.option > div.ss > div.about {
+  margin-top: 30px;
+}
+div.wrraper > div.footer > div.option > div.ss > div.about > h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+div.wrraper > div.footer > div.option > div.ss > div.about > a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80%;
+}
+div.wrraper > div.footer > div.barcode {
+  width: 100%;
+  height: 85px;
+  border-bottom: 0.5px solid #9e9e9e;
+}
+div.wrraper > div.footer > div.barcode > div.bp {
+  width: 49%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.footer > div.barcode > div.bp > p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70%;
+  line-height: 85px;
+  margin-left: 20px;
+}
+div.wrraper > div.footer > div.barcode > div.barim {
+  width: 49%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+}
+div.wrraper > div.footer > div.barcode > div.barim > img {
+  margin-top: 10px;
+  width: 28%;
+} 
+div.wrraper>div.last{
+  width: 100%;
+  height: 75px;
+}
+div.wrraper>div.last>div.al{
+width: 49%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+}
+div.wrraper>div.last>div.icon{
+width: 49%;
+height: inherit;
+display: inline-block;
+vertical-align: top;
+direction: rtl;
+}
+div.wrraper>div.last>div.al>div{
+  width: 14%;
+  height: 20px;
+  vertical-align: top;
+  display: inline-block;
+ margin-top: 25px;
+ margin-left: 15px;
+}
+div.wrraper>div.last>div.al>div>h5{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 80%;
+border-right: 0.5px solid #9e9e9e;
+}
+div.wrraper>div.last>div.al>div.fa{
+  width: 80%;
+  height: 20px;
+}
+div.wrraper>div.last>div.al>div.fa>a{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 60%;
+ margin-right: 15px;
+ text-decoration: none;
+ color: #3d3d3d;
+}
+div.wrraper>div.last>div.icon>p{
+  display: inline-block;
+  vertical-align: top;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 70%;
+  margin-right: 30px;
+  margin-top: 35px;
+}
+div.wrraper>div.last>div.icon>i{
+  font-size: large;
+  margin-top: 35px;;
+  margin-right: 5px;
+  margin-top: 35px;
+}
+
+

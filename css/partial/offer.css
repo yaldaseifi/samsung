@@ -1,0 +1,141 @@
+div.wrraper > div.offer {
+  width: 100%;
+  height: auto;
+  background-image: url(../../img/bimg2.jpg);
+  background-position: inherit;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+div.wrraper > div.offer > div.b2 {
+  width: 65%;
+  height: 280px;
+  text-align: center;
+}
+div.wrraper > div.offer > div.b2 > input {
+  all: unset;
+  width: 16%;
+  height: 40px;
+  margin-right: 540px;
+  background-color: #000000;
+  margin-top: 125px;
+  color: aliceblue;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  transition: all 300ms linear;
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+}
+div.wrraper > div.offer > div.b2 > input:hover {
+  background-color: rgba(101, 100, 100, 0.933);
+  cursor: pointer;
+  transition: all 300ms linear;
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+}
+div.wrraper > div.offer > div.if {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+div.wrraper > div.offer > div.if > h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 3.2vw;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+div.wrraper > div.offer > div.if > div.mg {
+  width: 48%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 30px;
+}
+div.wrraper > div.offer > div.if > div.txt {
+  width: 45%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-left: 30px;
+}
+div.wrraper > div.offer > div.if > div.mg > img {
+  width: 98%;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+div.wrraper > div.offer > div.if > div.txt > ol > li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2vw;
+  font-weight: 300;
+  margin-top: 70px;
+}
+div.wrraper > div.offer > div.search {
+  width: 100%;
+  height: 400px;
+  text-align: center;
+  padding: 60px;
+}
+div.wrraper > div.offer > div.search > h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 3.2vw;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+div.wrraper > div.offer > div.search > input {
+  all: unset;
+  width: 35%;
+  height: 45px;
+  background-color: #f3f2f2;
+  border: 1px solid rgb(41, 41, 41);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  color: gray;
+}
+div.wrraper > div.offer > div.search > nav {
+  padding: 20px;
+}
+div.wrraper > div.offer > div.search > nav > ul > li {
+  width: 8%;
+  height: 5px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 1px;
+  font-size: 60%;
+  margin-bottom: 30px;
+}
+div.wrraper > div.offer > div.search > nav > ul > li > a {
+  text-decoration: none;
+  color: rgb(77, 77, 77);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border: 1px solid rgb(49, 49, 49);
+  padding: 8px;
+  transition: all 200ms linear;
+}
+
+div.wrraper > div.offer > div.search > nav > ul > li > a:hover {
+  background-color: #dedede;
+  transition: all 200ms linear;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+}
